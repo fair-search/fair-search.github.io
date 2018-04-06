@@ -1,1 +1,1 @@
-# fair-search.github.io
+Fair search page
