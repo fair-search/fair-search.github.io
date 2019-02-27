@@ -9,5 +9,5 @@
 
 ## Core libraries
 
-* https://fair-search.github.io/fairsearch-core/java/fairsearch-core-0.1.jar
-* https://fair-search.github.io/fairsearch-core/java/fairsearch-core-all-0.1.jar
+* https://fair-search.github.io/fairsearch-core/java/fairsearch-core-1.0.1.jar
+* https://fair-search.github.io/fairsearch-core/java/fairsearch-core-all-1.0.1.jar
