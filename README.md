@@ -1,5 +1,4 @@
-# Fair search page
-
+# Binaries for fair-search project
 
 ## Fair reranker
 
